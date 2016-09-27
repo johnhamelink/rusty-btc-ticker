@@ -1,0 +1,9 @@
+[package]
+name = "btc-ticker"
+version = "0.1.0"
+authors = ["John Hamelink <john@johnhamelink.com>"]
+
+[dependencies]
+hyper = "0.9.10"
+rustc-serialize = "0.3"
+argparse = "0.2.1"
